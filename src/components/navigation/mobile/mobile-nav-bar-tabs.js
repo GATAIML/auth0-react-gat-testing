@@ -24,11 +24,7 @@ export const MobileNavBarTabs = ({ handleClick }) => {
             label="Protected"
             handleClick={handleClick}
           />
-          <!--<MobileNavBarTab
-            path="/admin"
-            label="Admin"
-            handleClick={handleClick}
-          />-->
+          
         </>
       )}
     </div>
